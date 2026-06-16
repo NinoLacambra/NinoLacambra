@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Niño Lacambra 👋
 
-<!--
-**NinoLacambra/NinoLacambra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor of Science in Computer Engineering** student at the **Polytechnic University of the Philippines**.
+💻 Passionate about **Software Development**, **Test Automation**, and **Web Technologies**.
+🌱 Currently improving my skills in **JavaScript**, **TypeScript**, **React/Next.js**, and **Playwright**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently working on **LIT Management System** and other web-based projects.
+* 🌱 Learning more about **full-stack development**, **automation testing**, and **cloud technologies**.
+* 👯 Open to collaborating on **open-source projects** and **web applications**.
+* 💬 Ask me about **JavaScript, TypeScript, Playwright, Next.js, and software testing**.
+* 📫 Reach me at: **[lacambranino12@gmail.com](mailto:lacambranino12@gmail.com)**
+
+## 🛠️ Tech Stack
+
+* **Languages:** JavaScript, TypeScript, C#, HTML, CSS
+* **Frameworks & Libraries:** React, Next.js, Node.js
+* **Testing:** Playwright
+* **Tools:** Git, GitHub, VS Code, Linux (WSL)
+* **Database:** PostgreSQL, MySQL
+
+## 📌 Featured Projects
+
+* 📚 **LIT Management System** – A web-based management platform with user management, collection management, and client database modules.
+* 🤖 **Playwright Automation Suite** – End-to-end automated testing scripts for web applications.
+* 🌐 **Web Development Projects** – Various personal and academic projects built with modern web technologies.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinoLacambra\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoLacambra\&layout=compact\&theme=github_dark)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
