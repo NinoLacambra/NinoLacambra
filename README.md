@@ -1,37 +1,102 @@
-# Hi there, I'm Niño Lacambra 👋
+# Hi, I'm Niño Lacambra 👋
 
-🎓 **Bachelor of Science in Computer Engineering** student at the **Polytechnic University of the Philippines**.
-💻 Passionate about **Software Development**, **Test Automation**, and **Web Technologies**.
-🌱 Currently improving my skills in **JavaScript**, **TypeScript**, **React/Next.js**, and **Playwright**.
+Full-Stack Developer passionate about building scalable web applications, AI-powered solutions, workflow automations, and cloud-based systems.
 
-## 🚀 About Me
+I'm currently pursuing a Bachelor of Science in Computer Engineering at the Polytechnic University of the Philippines while developing real-world software solutions using modern technologies such as TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, AWS, and AI tools.
 
-* 🔭 Currently working on **LIT Management System** and other web-based projects.
-* 🌱 Learning more about **full-stack development**, **automation testing**, and **cloud technologies**.
-* 👯 Open to collaborating on **open-source projects** and **web applications**.
-* 💬 Ask me about **JavaScript, TypeScript, Playwright, Next.js, and software testing**.
-* 📫 Reach me at: **[lacambranino12@gmail.com](mailto:lacambranino12@gmail.com)**
+## 🚀 What I Do
 
-## 🛠️ Tech Stack
+* Build full-stack web applications using modern JavaScript and TypeScript ecosystems
+* Design and develop REST APIs and backend services
+* Create workflow automations using n8n and third-party integrations
+* Develop AI-powered applications using OpenAI, ElevenLabs, and other AI services
+* Work with relational databases including PostgreSQL and MySQL
+* Implement testing and quality assurance using Playwright
+* Deploy and maintain production-ready applications
 
-* **Languages:** JavaScript, TypeScript, C#, HTML, CSS
-* **Frameworks & Libraries:** React, Next.js, Node.js
-* **Testing:** Playwright
-* **Tools:** Git, GitHub, VS Code, Linux (WSL)
-* **Database:** PostgreSQL, MySQL
+## 💼 Technical Skills
+
+### Languages
+
+* TypeScript
+* JavaScript
+* C#
+* SQL
+* HTML
+* CSS
+
+### Frontend
+
+* React
+* Next.js
+* Tailwind CSS
+* Vite
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Webhooks
+* Authentication Systems
+
+### Databases
+
+* PostgreSQL
+* Supabase
+* MySQL
+
+### Cloud & DevOps
+
+* AWS Lambda
+* AWS API Gateway
+* Git
+* GitHub
+* Linux
+* CI/CD
+
+### Automation & AI
+
+* n8n
+* Playwright
+* OpenAI APIs
+* ElevenLabs
+* Prompt Engineering
+* Workflow Automation
 
 ## 📌 Featured Projects
 
-* 📚 **LIT Management System** – A web-based management platform with user management, collection management, and client database modules.
-* 🤖 **Playwright Automation Suite** – End-to-end automated testing scripts for web applications.
-* 🌐 **Web Development Projects** – Various personal and academic projects built with modern web technologies.
+### 📚 LIT Management System
 
-## 📈 GitHub Stats
+A full-stack web application designed to manage users, collections, and client records efficiently. Built with modern web technologies and focused on scalability and maintainability.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NinoLacambra\&show_icons=true\&theme=github_dark)
+### 🤖 AI & Automation Workflows
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoLacambra\&layout=compact\&theme=github_dark)
+Developed automation pipelines using n8n, AI APIs, and webhook integrations to streamline business processes, data synchronization, and task automation.
+
+### 🎓 Learning Management Platform
+
+Built a web-based learning platform featuring authentication, course management, progress tracking, and interactive learning experiences.
+
+### 🧪 Playwright Automation Suite
+
+Created end-to-end automated testing solutions to improve software reliability, reduce manual testing effort, and accelerate development workflows.
+
+## 🌱 Currently Exploring
+
+* Advanced AWS Serverless Architectures
+* AI Agents and Multi-Agent Systems
+* Event-Driven Systems
+* Scalable Backend Design
+* Cloud Infrastructure
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/NinoLacambra
+* Email: [lacambranino12@gmail.com](mailto:lacambranino12@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/niño-lacambra/
+* Portfolio: https://ninolacambra.vercel.app/
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+> I enjoy solving real-world problems through software, automation, and AI. I'm always looking for opportunities to learn, collaborate, and build impactful products.
